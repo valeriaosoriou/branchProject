@@ -1,0 +1,26 @@
+{
+  "name": "branchProject",
+  "version": "1.0.0",
+  "description": "creating a master branch for a team project",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "jshint": "^2.11.0",
+    "grunt": "^1.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valeriaosoriou/branchProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valeriaosoriou/branchProject/issues"
+  },
+  "homepage": "https://github.com/valeriaosoriou/branchProject#readme"
+}
